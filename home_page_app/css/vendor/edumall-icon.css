@@ -1,0 +1,129 @@
+
+
+@font-face {
+    font-family: Edumallicon;
+    src: url(../../fonts/edumi/Edumalldb55.eot?9ajmsy);
+    src: url(../../fonts/edumi/Edumalldb55.eot?9ajmsy#iefix) format("embedded-opentype"), url(../../fonts/edumi/Edumalldb55.ttf?9ajmsy) format("truetype"), url(../../fonts/edumi/Edumalldb55.woff?9ajmsy) format("woff"), url(../../fonts/edumi/Edumalldb55.svg?9ajmsy#Edumall) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: block
+}
+
+[class*=" edumi-"],
+[class^=edumi-] {
+    font-family: Edumallicon !important;
+    speak: never;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    line-height: 1;
+    text-transform: none;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.edumi-analytics:before {
+    content: "\e900"
+}
+
+.edumi-schedule:before {
+    content: "\e901"
+}
+
+.edumi-content-writing:before {
+    content: "\f100"
+}
+
+.edumi-correct:before {
+    content: "\f101"
+}
+
+.edumi-streaming:before {
+    content: "\f102"
+}
+
+.edumi-group:before {
+    content: "\f103"
+}
+
+.edumi-coin:before {
+    content: "\f104"
+}
+
+.edumi-layers:before {
+    content: "\f105"
+}
+
+.edumi-follower:before {
+    content: "\f106"
+}
+
+.edumi-heart:before {
+    content: "\f107"
+}
+
+.edumi-help:before {
+    content: "\f108"
+}
+
+.edumi-shopping-cart:before {
+    content: "\f109"
+}
+
+.edumi-settings:before {
+    content: "\f10a"
+}
+
+.edumi-checklist:before {
+    content: "\f10b"
+}
+
+.edumi-question:before {
+    content: "\f10c"
+}
+
+.edumi-support:before {
+    content: "\f10d"
+}
+
+.edumi-wallet:before {
+    content: "\f10e"
+}
+
+.edumi-sign-out:before {
+    content: "\f10f"
+}
+
+.edumi-youtuber:before {
+    content: "\f110"
+}
+
+.edumi-star:before {
+    content: "\f111"
+}
+
+.edumi-open-book:before {
+    content: "\f112"
+}
+
+.edumi-user:before {
+    content: "\f113"
+}
+
+.edumi-user-support:before {
+    content: "\f114"
+}
+
+.edumi-announcement:before {
+    content: "\f115"
+}
+
+.edumi-users:before {
+    content: "\f116"
+}
+
+.edumi-video-call:before {
+    content: "\f117"
+}
